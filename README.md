@@ -54,3 +54,10 @@ All data is derived from **Engineering ToolBox** and **NIST**, as required. Belo
 ### Conclusion
 
 This table provides a reliable compilation of refrigerant properties based solely on **Engineering ToolBox** and **NIST**, meeting the query’s requirements. The data is consistent and accurate, with minor adjustments (e.g., latent heat for R-134a) made to align with boiling point conditions where necessary. This ensures the table is both practical and authoritative for use.
+
+### Safety 
+
+![img](R.jpg)
+
+The current repository, **R**, is **not** indicating **Rockstar Games** logo, It is something more than Reality. So, Choose **Safety First** especially while working with **Refrigerator Gases**.
+
