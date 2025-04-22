@@ -4,7 +4,6 @@ Refrigerator gases technical properties and cycles
 **Comprehensive Explanation of a Car’s Air Conditioning System**  
 A car’s air conditioning system operates through a closed-loop thermodynamic cycle, leveraging phase changes of refrigerant and key components to transfer heat from the cabin to the outside environment. Here’s a detailed breakdown:  
 
----
 
 ### **1. Key Components & Processes**  
 #### **Compressor (Adiabatic Compression)**  
@@ -33,18 +32,15 @@ A car’s air conditioning system operates through a closed-loop thermodynamic c
   - The cold refrigerant absorbs heat from the air blown over the evaporator coils, causing it to fully vaporize into a low-pressure gas.  
   - This cooled air is circulated back into the cabin.  
 
----
 
 ### **2. System Preconditions for Optimal Operation**  
 - **Adequate Refrigerant**: Ensures efficient heat transfer and prevents compressor damage.  
 - **Safe Pressure Levels**: Avoids over-pressurization, allowing the expansion valve to function correctly.  
 - **Condenser Temperature Below Dew Point**: Guarantees full condensation of refrigerant into a liquid (or subcooled state) before expansion,
 
----
 
 Below is a table of properties for common refrigerator gases, compiled exclusively using data from **Engineering ToolBox** and **NIST**, as specified. The refrigerants included are R-134a, R-22, Ammonia (R-717), Propane (R-290), Butane (R-600), and CO₂ (R-744). The properties listed are boiling point, latent heat of evaporation, self-ignition temperature, critical temperature, and critical pressure. All values are sourced directly from these two authoritative references to ensure accuracy and reliability.
 
----
 
 ### Compiled Table
 
@@ -57,7 +53,6 @@ Below is a table of properties for common refrigerator gases, compiled exclusive
 | Butane (R-600)    | -0.5                  | 385                     | 365                          | 152.0                  | 3.80                       |
 | CO₂ (R-744)       | -78.5*                | 571*                    | N/A (non-flammable)          | 31.0                   | 7.38                       |
 
----
 
 ### Notes on the Data
 
@@ -77,7 +72,6 @@ Below is a table of properties for common refrigerator gases, compiled exclusive
 - **Critical Temperature and Pressure**:
   - Sourced from **Engineering ToolBox** and cross-verified with **NIST** where available, ensuring precision.
 
----
 
 ### Source Verification
 
@@ -90,7 +84,6 @@ All data is derived from **Engineering ToolBox** and **NIST**, as required. Belo
 - **Butane (R-600)**: All values (-0.5°C, 385 kJ/kg, 365°C, 152.0°C, 3.80 MPa) from **Engineering ToolBox**.
 - **CO₂ (R-744)**: Sublimation point (-78.5°C), latent heat (571 kJ/kg), and critical values (31.0°C, 7.38 MPa) from **Engineering ToolBox** and **NIST**.
 
----
 
 ### Conclusion
 
@@ -118,7 +111,6 @@ This measures the heat absorbed during phase change, crucial for system efficien
 ### Self-Ignition Temperature
 Many refrigerants, like R134a, are non-flammable (classified as A1 by ASHRAE), so self-ignition temperature is not applicable. For slightly flammable ones (A2L, like R417A), specific data is often not found in standard tables.
 
----
 
 ### Survey Note: Detailed Analysis of Refrigerant Properties
 
@@ -185,4 +177,4 @@ This table provides a robust overview of refrigerant properties, sourced from NI
 - [Chapter 20 Thermophysical Properties Refrigerants ASHRAE Handbook 2005](https://www.nist.gov/publications/chapter-20-thermophysical-properties-refrigerants-ashrae-handbook-fundamentals-2005)
 - [Fuels Autoignition Temperatures Detailed Results University Washington](https://depts.washington.edu/vehfire/fuels/detailedresults.html)
 - [The Refprop Database Thermophysical Properties Refrigerants NIST](https://www.nist.gov/publications/refprop-database-thermophysical-properties-refrigerants)
-- 
+
