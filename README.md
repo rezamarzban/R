@@ -1,8 +1,8 @@
 # R
 Refrigerator gases technical properties and cycles 
 
-**Comprehensive Explanation of a Car’s Air Conditioning System**  
-A car’s air conditioning system operates through a closed-loop thermodynamic cycle, leveraging phase changes of refrigerant and key components to transfer heat from the cabin to the outside environment. Here’s a detailed breakdown:  
+**Comprehensive Explanation of an Air Conditioning System**  
+For example, A car’s air conditioning system operates through a closed-loop thermodynamic cycle, leveraging phase changes of refrigerant and key components to transfer heat from the cabin to the outside environment. Here’s a detailed breakdown:  
 
 
 ### **1. Key Components & Processes**  
@@ -38,6 +38,7 @@ A car’s air conditioning system operates through a closed-loop thermodynamic c
 - **Safe Pressure Levels**: Avoids over-pressurization, allowing the expansion valve to function correctly.  
 - **Condenser Temperature Below Dew Point**: Guarantees full condensation of refrigerant into a liquid (or subcooled state) before expansion,
 
+---
 
 Below is a table of properties for common refrigerator gases, compiled exclusively using data from **Engineering ToolBox** and **NIST**, as specified. The refrigerants included are R-134a, R-22, Ammonia (R-717), Propane (R-290), Butane (R-600), and CO₂ (R-744). The properties listed are boiling point, latent heat of evaporation, self-ignition temperature, critical temperature, and critical pressure. All values are sourced directly from these two authoritative references to ensure accuracy and reliability.
 
